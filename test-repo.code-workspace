@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+special-spork-vwpwjw6px6vf6gxj/workspaces/test-repo"
+		}
+	],
+	"remoteAuthority": "codespaces+special-spork-vwpwjw6px6vf6gxj",
+	"settings": {}
+}
